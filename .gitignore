@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+rock-paper-scissors-*/
+# Virtual environments
+.venv
+
+.env
+
+
+test_data/
+dataset_bkup/
+img_vectors/
+2021_04*
+kaggle.json
+
+*.pkl
+temp_face.png
+
+
+recommendation/
+yolo_detection_and_training/
