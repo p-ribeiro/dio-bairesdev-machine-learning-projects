@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.1"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-16 00:00+0000\n"
+"PO-Revision-Date: 2025-09-16 00:00+0000\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Audio text"
+msgstr "Texto do áudio"
+
+msgid "What do you want to search for?"
+msgstr "O que você quer procurar?"
+
+msgid "I am listening..."
+msgstr "Estou escutando..."
+
+msgid "search"
+msgstr "procurar"
+
+msgid "exit"
+msgstr "sair"
+
+msgid "Goodbye, till next time"
+msgstr "Tchau, até a próxima"
+
+msgid "joke"
+msgstr "piada"
+
+msgid "what time"
+msgstr "que horas"
+
+msgid "Sorry, I did not get that."
+msgstr "Desculpe, eu não entendi."
+
+msgid "Sorry, the service is not available"
+msgstr "Desculpe, o serviço não está disponível."
+
+msgid "Sorry, I can't perform that action yet."
+msgstr "Desculpe, eu ainda não consigo completar essa ação."
+
+msgid "Here is what I have found on youtube."
+msgstr "Aqui está o que eu encontrei no youtube."
+        
